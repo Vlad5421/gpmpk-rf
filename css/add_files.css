@@ -1,0 +1,48 @@
+.wrapper_img {
+    text-align: center;
+    margin: 2em;
+}
+
+.button_files {
+    text-decoration: none;
+    background-color: #666;
+    padding: .3em 1em;
+    border-radius: .3em;
+    color: #fff;
+}
+.button_files:hover {
+    color: #fff;
+    background-color: rgb(136, 136, 136);
+}
+
+.ajax-reply {
+    margin-top: 2em;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: start;
+}
+
+.new_img {
+    display: block;
+    max-width: 150px;
+    height: auto;
+    margin: 15px;
+    border: solid 2px #000;
+}
+
+.process_upload {
+    display: none;
+    margin-top: 20px auto 0;
+  }
+  .process_upload span, img {
+    display: block;
+  }
+  .process_upload img {
+    max-width: 150px;
+    height: auto;
+  }
+  .add_files_button {
+    display: none;
+  }
+  

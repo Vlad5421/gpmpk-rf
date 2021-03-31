@@ -1,0 +1,9 @@
+.reg_ok {
+    display: block;
+    padding: 10px;
+    background: rgb(89, 204, 104);
+    border-radius: 5px;
+    border: solid 1px rgb(0, 179, 24);
+    color: #fff;
+    margin-top: 10px;
+  }

@@ -1,0 +1,11 @@
+.my_cards_card {
+    margin: 20px 30px;
+    padding: 15px;
+    border-left: 4px solid rgb(6, 194, 0);
+    border-radius: 5px;
+}
+
+.my_cards_card .btn_orange {
+    margin-top: 10px;
+    padding: 5px;
+}
